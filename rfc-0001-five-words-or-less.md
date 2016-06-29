@@ -20,8 +20,7 @@ In casual conversation, when you as a receiver anticipate a lengthy explanation 
 Receiver: Actually, I think you told me about this once before. Can you explain it in five words or less?
 Speaker: ...'Guy didn't read his logs.'
 Receiver: Yeah, we talked about this guy before.
-Speaker: Okay, so I won't go over the whole history. So, now the issue is...
-```
+Speaker: Okay, so I won't go over the whole history. So, now the issue is...```
 
 # Drawbacks
 

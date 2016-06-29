@@ -2,7 +2,7 @@
 
 # Summary
 
-Five Words or Less is a proposed as a verbal protocol whereby conversations can be made more time efficient by communicating an idea much more quickly than conventional methods.
+Five Words or Less is proposed as a verbal protocol whereby conversations can be made more time efficient by communicating an idea much more quickly than conventional methods.
 
 This protocol is intended to be used as a verbal protocol during casual conversation to head-off what would otherwise turn into a lengthy but less-than informative venture for the receiving party. It is implemented when the receiver of the information anticipates a long explanation from the speaker regarding a situation, idea, story, recounting of a movie or book, or any other such situation. The receiver prompts the speaker with some semblance of the phrase "Explain it in five words or less" and the speaker then obliges and crafts a sentence consisting of no more than five words to give a simplified overview of the story to follow.
 

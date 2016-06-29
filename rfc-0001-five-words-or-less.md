@@ -16,11 +16,13 @@ The intention of this protocol is to provide a simple framework for improving th
 
 In casual conversation, when you as a receiver anticipate a lengthy explanation or drawn-out story, or if you think the speaker may be going over the same ground, you prompt them with a variant of "Can you explain it in five words or less?" The following scenario details an appropriate application of the protocol:
 
-```Speaker: This guy that I'm helping on his server problem is being incredibly difficult.
+```
+Speaker: This guy that I'm helping on his server problem is being incredibly difficult.
 Receiver: Actually, I think you told me about this once before. Can you explain it in five words or less?
 Speaker: ...'Guy didn't read his logs.'
 Receiver: Yeah, we talked about this guy before.
-Speaker: Okay, so I won't go over the whole history. So, now the issue is...```
+Speaker: Okay, so I won't go over the whole history. So, now the issue is...
+```
 
 # Drawbacks
 

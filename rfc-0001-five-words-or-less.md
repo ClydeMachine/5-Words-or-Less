@@ -24,6 +24,13 @@ Receiver: Yeah, we talked about this guy before.
 Speaker: Okay, so I won't go over the whole history. So, now the issue is...
 ```
 
+```
+Speaker: There's this book I've been reading that you might like.
+Receiver: Don't think I've heard of it - what's it about, in five words or less?
+Speaker: ...'Teenage love story with vampires.'
+Receiver: Ah. Well, vampires aren't my thing.
+```
+
 # Drawbacks
 
 The limitation of five words occasionally affords the speaker too little room to craft a meaningful sentence, reducing their efforts to an incomplete string of words, akin to keywords or search tags. However, this can often still convey the idea in a suitable manner and still achieve the goal of time efficiency. 

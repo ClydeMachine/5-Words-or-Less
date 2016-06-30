@@ -2,11 +2,13 @@
 
 # Summary
 
-Five Words or Less is proposed as a verbal protocol whereby conversations can be made more time efficient by communicating an idea much more quickly than conventional methods.
+Five Words or Less is proposed as a verbal protocol whereby conversations can be made more time efficient by communicating an idea much more quickly than current conventional methods.
 
-This protocol is intended to be used as a verbal protocol during casual conversation to head-off what would otherwise turn into a lengthy but less-than informative venture for the receiving party. It is implemented when the receiver of the information anticipates a long explanation from the speaker regarding a situation, idea, story, recounting of a movie or book, or any other such situation. The receiver prompts the speaker with some semblance of the phrase "Explain it in five words or less" and the speaker then obliges and crafts a sentence consisting of no more than five words to give a simplified overview of the story to follow.
+This protocol is intended to be used during casual conversation to head-off what would otherwise turn into a lengthy venture for both parties. It is implemented when the receiver of the information anticipates a long explanation from the speaker regarding a situation, idea, story, recounting of a movie or book, or any other such situation. The receiver prompts the speaker with some semblance of the phrase "Explain it in five words or less" and the speaker then obliges and crafts a sentence consisting of no more than five words to give a simplified overview of the story to follow.
 
-In a trivial sense, the receiver can use the protocol to gauge if they would be interested in the plot of a TV show or screenplay without having to hear the details of individual characters, setting, etc.
+In a trivial sense, the receiver can use the protocol to gauge if they would be interested in the plot of a TV show or screenplay without having to hear the details of individual characters, setting, etc. In a more practical sense, two people can overcome the unintentional retelling of a story if the receiver has heard it already.
+
+Overall this protocol leads to more contentful conversations and faster decision-making.
 
 # Motivation
 
@@ -39,7 +41,7 @@ The limitation can also prove to omit key details of an idea, and as such the pr
 
 # Alternatives
 
-The current alternative to this method is to interrupt someone when delivering a lengthy explanation, or to endure the onslaught of words. The latter may be perceived as more polite, but is far less efficient and maybe a little less honest than the Five Words or Less method.
+The current alternative to this method is to interrupt someone when delivering a lengthy explanation, or to endure the onslaught of words. The latter may be perceived as more polite, but is far less efficient and maybe a little less honest than the Five Words or Less method. The value in adopting this protocol should be apparent.
 
 # Unresolved questions
 

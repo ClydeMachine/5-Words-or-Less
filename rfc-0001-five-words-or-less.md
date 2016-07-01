@@ -41,6 +41,8 @@ The limitation of five words occasionally affords the speaker too little room to
 
 The limitation can also prove to omit key details of an idea, and as such the protocol cannot always be applied. Its true strength is seen when having to hear the recounting of a movie or a book when they simply want to know if they would even be interested in the subject matter. 
 
+The protocol has only been tested and confirmed to work with the English language. There has been no testing of its use in other languages but the principles themselves will likely still apply.
+
 # Alternatives
 
 The current alternative to this method for achieving time efficiency is to interrupt someone when delivering a lengthy explanation, or to forego the time efficiency altogether and endure the onslaught of words. The latter may be perceived as more polite, but is far less efficient and maybe a little less honest than the Five Words or Less method. The value in adopting this protocol should be apparent.
